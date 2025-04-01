@@ -4,7 +4,6 @@ title: Iowa Radio Operators | k0iro
 
 {{< blocks/cover title="" image_anchor="middle" height="full" >}}
 
-{{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
 
