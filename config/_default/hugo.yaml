@@ -1,4 +1,4 @@
-baseURL: https://k0iro-web.pages.dev
+baseURL: https://www.k0iro.com
 title: Iowa Radio Operators | k0iro
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
@@ -46,7 +46,7 @@ imaging:
 languages:
   en:
     languageName: English
-    title: Iowa Radio Operators
+    title: Iowa Radio Operators | K0IRO
     params:
       description: Iowa Radio Operators Site
 
@@ -69,6 +69,7 @@ markup:
 # Comment out if you don't want the "print entire section" link enabled.
 outputs:
   section: [HTML, print, RSS]
+  #section: [HTML, RSS]
 
 params:
   taxonomy:
@@ -96,14 +97,14 @@ params:
   archived_version: false
 
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-  github_repo: https://github.com/google/docsy-example
+  #github_repo: https://github.com/google/docsy-example
 
    # Specify a value here if your content directory is not in your repo's root directory
   # github_subdir: ""
 
   # Uncomment this if your GitHub repo does not have "main" as the default branch,
   # or specify a new value if you want to reference another branch in your GitHub links
-  github_branch: main
+  #github_branch: main
 
   # Google Custom Search Engine ID. Remove or comment out to disable search.
   #gcs_engine_id: d72aa9b2712488cc3

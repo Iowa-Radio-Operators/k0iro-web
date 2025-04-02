@@ -6,12 +6,24 @@ menu:
     weight: 10
 ---
 
+{{< blocks/section color="white" >}}
 
-{{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
-The Goldydocs UI now shows chair size metrics by default.
+Testing Updates
 
-Please follow this space for updates!
+{{< blocks/section type="row" color="white" >}}
+{{% blocks/feature icon="fa-walkie-talkie" title="Club Bylaws" %}}
+
+[Bylaws](/about/bylaws)
 {{% /blocks/feature %}}
+{{% blocks/feature icon="fa-bolt" title="Club Leadership" %}}
 
-{{% /blocks/section %}}
+[Leadership](/about/leadership)
+{{% /blocks/feature %}}
+{{% blocks/feature icon="fa-gears" title="Mission & Vision" %}}
+
+[Mission & Vision](/about/mission-vision)
+{{% /blocks/feature %}}
+{{< /blocks/section >}}
+
+
+{{< /blocks/section >}}
