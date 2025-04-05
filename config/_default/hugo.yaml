@@ -1,6 +1,5 @@
 baseURL: https://k0iro-web.pages.dev
-title: Iowa Radio Operators | k0iro
-
+title: Iowa Radio Operators 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
 # Language settings
@@ -46,7 +45,7 @@ imaging:
 languages:
   en:
     languageName: English
-    title: Iowa Radio Operators
+    title: Iowa Radio Operators | k0iro
     params:
       description: Iowa Radio Operators Site
 
@@ -151,33 +150,33 @@ params:
 
   links:
     # End user relevant links. These will show up on left side of footer and in the community page if you have one.
-    user:
-      - name: User mailing list
-        url: https://example.org/mail
-        icon: fa fa-envelope
-        desc: Discussion and help from your fellow users
-      - name: Twitter
-        url: https://example.org/twitter
-        icon: fab fa-twitter
-        desc: Follow us on Twitter to get the latest news!
-      - name: Stack Overflow
-        url: https://example.org/stack
-        icon: fab fa-stack-overflow
-        desc: Practical questions and curated answers
+    #user:
+      #- name: User mailing list
+      #  url: https://example.org/mail
+      #  icon: fa fa-envelope
+      #  desc: Discussion and help from your fellow users
+      #- name: Twitter
+      #  url: https://example.org/twitter
+      #  icon: fab fa-twitter
+      #  desc: Follow us on Twitter to get the latest news!
+      #- name: Stack Overflow
+      #  url: https://example.org/stack
+      #  icon: fab fa-stack-overflow
+      #  desc: Practical questions and curated answers
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
-    developer:
-      - name: GitHub
-        url: https://github.com/google/docsy
-        icon: fab fa-github
-        desc: Development takes place here!
-      - name: Slack
-        url: https://example.org/slack
-        icon: fab fa-slack
-        desc: Chat with other project developers
-      - name: Developer mailing list
-        url: https://example.org/mail
-        icon: fa fa-envelope
-        desc: Discuss development issues around the project
+    #developer:
+    #  - name: GitHub
+    #    url: https://github.com/google/docsy
+    #    icon: fab fa-github
+    #    desc: Development takes place here!
+    #  - name: Slack
+    #    url: https://example.org/slack
+    #    icon: fab fa-slack
+    #    desc: Chat with other project developers
+    #  - name: Developer mailing list
+    #    url: https://example.org/mail
+    #    icon: fa fa-envelope
+    #    desc: Discuss development issues around the project
 
 module:
   # Uncomment the next line to build and serve using local docsy clone declared in the named Hugo workspace:
