@@ -1,0 +1,21 @@
+{{ $breadcrumbs := slice }}
+{{ $current := .Page }}
+
+{{ range (seq 1 100) }}
+  {{ if and $current (isset $current.Params "parent") (not (eq $current.Params.parent "")) }}
+    {{ $breadcrumbs = (dict "title" ($current.Params.breadcrumb_title | default $current.Title) "url" $current.RelPermalink) | slice | append $breadcrumbs }}
+    {{ $current = site.GetPage $current.Params.parent }}
+  {{ else }}
+    {{ break }}
+  {{ end }}
+{{ end }}
+
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    {{ range $breadcrumbs }}
+      <li class="breadcrumb-item">
+        <a href="{{ .url }}">{{ .title }}</a>
+      </li>
+    {{ end }}
+  </ol>
+</nav>

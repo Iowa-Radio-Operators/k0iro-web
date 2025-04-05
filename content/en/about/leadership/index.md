@@ -1,6 +1,6 @@
 ---
 title: Iowa Radio Operators Leadership
-linkTitle: leadership
+weight: 10
 ---
 
 ## Leadership
