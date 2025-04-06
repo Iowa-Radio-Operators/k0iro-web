@@ -166,19 +166,19 @@ params:
       #  icon: fab fa-stack-overflow
       #  desc: Practical questions and curated answers
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
-    #developer:
-    #  - name: GitHub
-    #    url: https://github.com/google/docsy
-    #    icon: fab fa-github
-    #    desc: Development takes place here!
-    #  - name: Slack
-    #    url: https://example.org/slack
-    #    icon: fab fa-slack
-    #    desc: Chat with other project developers
-    #  - name: Developer mailing list
-    #    url: https://example.org/mail
-    #    icon: fa fa-envelope
-    #    desc: Discuss development issues around the project
+    developer:
+      - name: Iowa Radio Operators Discord
+        url: https://discord.gg/jHBywwPJD8
+        icon: fab fa-discord
+        desc: Discussion and help from your fellow users
+      - name: Email
+        url: mailto:info@k0iro.com
+        icon: fa fa-envelope
+        desc: Email the Leadership
+      - name: GitHub
+        url: https://github.com/Iowa-Radio-Operators
+        icon: fab fa-github
+        desc: Development takes place here!
 
 module:
   # Uncomment the next line to build and serve using local docsy clone declared in the named Hugo workspace:

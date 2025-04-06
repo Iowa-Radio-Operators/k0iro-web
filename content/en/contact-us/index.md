@@ -6,7 +6,7 @@ menu:
     weight: 60
 ---
 {{% blocks/lead color="primary" %}}
-Questions, Comments
+Questions or Comments, Need some General Information? Let us know!
 
 Contact Us Below!
 {{% /blocks/lead %}}
