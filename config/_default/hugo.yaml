@@ -160,7 +160,7 @@ params:
       - name: Email
         url: mailto:info@k0iro.com
         icon: fa fa-envelope
-        desc: Email the Leadership
+        desc: Email the Club
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
       - name: GitHub
