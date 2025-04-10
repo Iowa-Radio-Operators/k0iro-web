@@ -24,9 +24,9 @@ Jason - KE0EJS
 
 {{< blocks/section type="row" color="white" >}}
 {{% blocks/feature icon="fa-user" title="Secretary - Treasurer " %}}
-Rich - KF0TBV
+Jason - KD0MUB
 
-<a href="mailto:rich@k0iro.com">rich@k0iro.com</a>
+<a href="mailto:jasonl@k0iro.com">jasonl@k0iro.com</a>
 {{% /blocks/feature %}}
 {{% blocks/feature icon="fa-user" title="Marketing - Community Relations" %}}
 Ben - K0BJJ
