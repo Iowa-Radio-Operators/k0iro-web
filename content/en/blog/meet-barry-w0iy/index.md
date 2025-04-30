@@ -1,6 +1,6 @@
 ---
 date: 2025-04-01
-title: Introducing Barry WØIY
+title: Introducing Barry WØIY - Iowa Section Manager
 author: Calvin Jutting ([@KN0CTJ](calvin@ik0iro.com))
 ---
 
