@@ -6,7 +6,7 @@ author: Calvin Jutting ([@KN0CTJ](calvin@ik0iro.com))
 
 ## Story County Amateur Radio Club's Statewide POTA Gathering
 
-What’s better than a beautiful day outdoors with radios buzzing and contacts rolling in? 
+What’s better than a beautiful day outdoors (ok mostly beautiful day... at least it wasn't rainging) with radios buzzing and contacts rolling in? 
 
 This past weekend, amateur radio operators from across the state met up for the [Story County Amateur Radio Club’s](http://www.w0yl.com/) Parks on the Air (POTA) gathering. The mix of new faces and seasoned operators made for a great time, filled with plenty of chatter—both on and off the air.
 
