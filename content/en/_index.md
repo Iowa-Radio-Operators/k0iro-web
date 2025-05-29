@@ -13,5 +13,17 @@ title: Iowa Radio Operators | k0iro
 
 <p>Partnering with local clubs, we aim to enrich the shared experience of learning and communication. Together, we’re advancing the craft, embracing innovation, and building a vibrant network of radio operators across Iowa.</p>
 
-<p>Whether you're a seasoned operator or new to the airwaves, you have a place here. Let’s connect, support, and grow—one signal at a time.</p>
+
+{{< /blocks/section >}}
+
+{{< blocks/section color="primary" >}}
+
+
+<div style="text-align: center;">
+    <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!">
+        <img src="https://www.hamqsl.com/solar101vhf.php" alt="Solar-Terrestrial Data" style="width: 100%; max-width: 800px; height: auto;">
+    </a>
+</div>
+
+
 {{< /blocks/section >}}
