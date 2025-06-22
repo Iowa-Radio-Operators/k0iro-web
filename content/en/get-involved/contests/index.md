@@ -30,8 +30,11 @@ Why now? Because repeater activity has been getting a little too quiet lately, a
 </p>
 
 <p>
-Challenge your friends, your club, or that guy down the block with the big tower. Let’s bring our repeaters back to life—<em>one QSO at a time!</em>
+Challenge your friends, your club, or that guy down the block with the big tower. Let’s bring our repeaters back to life—<em>one QSO at a time!</em>. 
 </p>
+
+<p>Don't forget to also join in on the conversation on <a href="https://discord.gg/qRWYuNKXDG" target="_blank" rel="noopener">Discord</a>.</p>
+
 
 <p><strong>📡 Ready, set… transmit!</strong></p>
 
