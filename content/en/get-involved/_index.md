@@ -23,6 +23,11 @@ type: single
 
 [Iowa Radio Clubs](/get-involved/clubs)
 {{% /blocks/feature %}}
+
+{{% blocks/feature icon="fa-brands fa-fort-awesome" title="Contests" %}}
+
+[Contests](/get-involved/contests)
+{{% /blocks/feature %}}
 {{< /blocks/section >}}
 
 
