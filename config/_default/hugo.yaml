@@ -157,6 +157,14 @@ params:
         url: https://discord.gg/jHBywwPJD8
         icon: fab fa-discord
         desc: Discussion and help from your fellow users
+      - name: Iowa Radio Operators Facebook
+        url: https://www.facebook.com/k0iro
+        icon: fa-brands fa-facebook
+        desc: Join Us On Facebook
+      - name: Iowa Radio Operators YouTube
+        url: https://www.youtube.com/@K0IRO-IowaRadioOperators
+        icon: fa-brands fa-youtube
+        desc: Join Us On YouTube     
       - name: Email
         url: mailto:info@k0iro.com
         icon: fa fa-envelope
