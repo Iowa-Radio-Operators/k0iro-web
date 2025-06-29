@@ -41,6 +41,30 @@ Challenge your friends, your club, or that guy down the block with the big tower
 {{< /blocks/section >}}
 
 {{< blocks/section color="gray" >}}
+<h2>RULES:</h2>
+
+<p>This is a friendly challenge. Log any contact that you make. Please don't abuse the system, we trust that you will log only real contacts. We reserve the right to reject any and all contacts if we feel they are suspicious in nature.</p>
+
+<h3>What counts:</h3>
+<ul>
+  <li>Generally contacts made via VHF/UHF</li>
+  <li>Contacts via Repeater (Analog, DMR, P25, Fusion, D-Star)</li>
+  <li>Contacts via Simplex</li>
+  <li>Contacts via Satellite</li>
+  <li>Multiple contacts to the same person only count once a day. (Midnight to Midnight)</li>
+</ul>
+
+<h3>What does not count</h3>
+<ul>
+  <li>Contacts on HF</li>
+  <li>Contacts made during a net</li>
+  <li>Contacts made through a hotspot</li>
+  <li>Echolink</li>
+</ul>
+{{< /blocks/section >}}
+
+
+{{< blocks/section color="primary" >}}
 <div class="fd-form">
 
 <script type="module">
@@ -67,4 +91,5 @@ Challenge your friends, your club, or that guy down the block with the big tower
   
 </script>
 </div>
+
 {{< /blocks/section >}}
