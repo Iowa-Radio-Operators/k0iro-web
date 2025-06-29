@@ -51,6 +51,7 @@ Challenge your friends, your club, or that guy down the block with the big tower
   <li>Contacts via Repeater (Analog, DMR, P25, Fusion, D-Star)</li>
   <li>Contacts via Simplex</li>
   <li>Contacts via Satellite</li>
+  <li>Contacts via GMRS</li>
   <li>Multiple contacts to the same person only count once a day. (Midnight to Midnight)</li>
 </ul>
 
