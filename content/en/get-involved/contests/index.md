@@ -66,31 +66,7 @@ Challenge your friends, your club, or that guy down the block with the big tower
 
 
 {{< blocks/section color="primary" >}}
-<div class="fd-form">
 
-<script type="module">
-  (function (j,o,y,f,O,r,m) {
-    j[f] ??= function () { (j[f].q ??= []).push(arguments) };
-    j[f].init ??= x => new Promise(s => j[f]('init', x||{}, s))
-    r = o.createElement(y), m = o.getElementsByTagName(y)[0];
-    r.id = f; r.src = O; r.async = 1; m.parentNode.insertBefore(r, m);
-  }(window, document, 'script', 'magic', 'https://embed.jolly.tools/widget.js'));
-  // this has to be called just once
-  await magic.init({});
-  // this can be called once per form embed in the website, after init() is done
-  const formApi = await magic.render({
-    url: 'https://forms.form-data.com/NVEXKNJtqDWXGf/embed',
-    mode: 'inline',
-    trigger: 'none',
-    params: {},
-    inline: {
-      selector: '.fd-form',
-      autoResize: true
-    },
-    
-  })
-  
-</script>
-</div>
+<script src="https://www.cognitoforms.com/f/seamless.js" data-key="PXEfjucVYUmnw33JjuNbJQ" data-form="1"></script>
 
 {{< /blocks/section >}}
