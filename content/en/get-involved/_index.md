@@ -28,6 +28,12 @@ type: single
 
 [Contests](/get-involved/contests)
 {{% /blocks/feature %}}
+
+{{% blocks/feature icon="fa-solid fa-paperclip" title="Links" %}}
+
+[Quick Links](/get-involved/links)
+{{% /blocks/feature %}}
+
 {{< /blocks/section >}}
 
 
