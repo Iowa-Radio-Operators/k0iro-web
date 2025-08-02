@@ -6,6 +6,9 @@ author: Calvin Jutting ([@KN0CTJ](calvin@ik0iro.com))
 
 Congratulations to  Jim - W6GRE / WSFL398  is the clear winner this month. Lets spread the word and get more folks involved. I'll have some flyers on my table on Saturday.
 
+{{< imgproc "jims-plate.jpg" Resize "600x" />}}
+
+{{< imgproc "jim-winning.jpg" Resize "800x" />}}
 
 <br><br><br><br>
 
