@@ -8,7 +8,7 @@ Congratulations to  Jim - W6GRE / WSFL398  is the clear winner this month. Lets 
 
 {{< imgproc "jims-plate.jpg" Resize "600x" />}}
 
-{{< imgproc "jim-winning.jpg" Resize "800x" />}}
+{{< imgproc "jim-winning-v2.jpg" Resize "800x" />}}
 
 <br><br><br><br>
 
