@@ -1,5 +1,5 @@
 ---
-date: 2025-09-15
+date: 2025-09-19
 title: AREDN Introduction - What is it, Why Does It Matter
 author: Kraig Wilford ([@KD0CGN](kraigawilford@gmail.com)
 ---
