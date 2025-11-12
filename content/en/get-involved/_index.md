@@ -34,6 +34,11 @@ type: single
 [Quick Links](/get-involved/links)
 {{% /blocks/feature %}}
 
+{{% blocks/feature icon="fa fa-address-card" title="Nets" %}}
+
+[Quick Links](/get-involved/nets)
+{{% /blocks/feature %}}
+
 {{< /blocks/section >}}
 
 
