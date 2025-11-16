@@ -113,6 +113,7 @@ type: single
   <thead>
     <tr>
       <th>Day</th><th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th>
+      <tr><td>Thursday</td><td>7:30 p.m.</td><td>462.700+</td><td>141.3 PL</td><td>Iowa GMRS 700 net</td>
     </tr>
   </thead>
   <tbody>
