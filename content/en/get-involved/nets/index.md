@@ -26,7 +26,7 @@ type: single
 <h3>Monday Nets</h3>
 <table>
   <thead>
-    <tr><th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th></tr>
+    <tr><th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th><th>Sponsor</th></tr>
   </thead>
   <tbody>
     <tr><td>7:00 p.m.</td><td>147.045+</td><td>146.2 PL</td><td>Washington Area Amateur Radio Club Net</td></tr>
@@ -39,7 +39,7 @@ type: single
 <h3>Tuesday Nets</h3>
 <table>
   <thead>
-    <tr><th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th></tr>
+    <tr><th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th><th>Sponsor</th></tr>
   </thead>
   <tbody>
     <tr><td>8:00 p.m.</td><td>147.030+</td><td>114.8 PL</td><td>Newton Amateur Radio Club 2m Net (W0WML)</td></tr>
@@ -49,7 +49,7 @@ type: single
 <h3>Wednesday Nets</h3>
 <table>
   <thead>
-    <tr><th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th></tr>
+    <tr><th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th><th>Sponsor</th></tr>
   </thead>
   <tbody>
     <tr><td>6:00 p.m.</td><td>444.150+</td><td>151.4 PL</td><td>Smoking Hot Amateur Radio Club Wednesday Net</td></tr>
@@ -59,7 +59,7 @@ type: single
 <h3>Thursday Nets</h3>
 <table>
   <thead>
-    <tr><th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th></tr>
+    <tr><th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th><th>Sponsor</th></tr>
   </thead>
   <tbody>
     <tr><td>7:00 p.m.</td><td>146.940+</td><td>114.8 PL</td><td>Polk County ARES Thursday Night Net</td></tr>
@@ -69,7 +69,7 @@ type: single
 <h3>Sunday Nets</h3>
 <table>
   <thead>
-    <tr><th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th></tr>
+    <tr><th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th><th>Sponsor</th></tr>
   </thead>
   <tbody>
     <tr><td>3:00 p.m.</td><td>145.190-</td><td>114.8 PL</td><td>Blind Ham's Net (All Star Node 47282)</td></tr>
@@ -97,7 +97,7 @@ type: single
 <table>
   <thead>
     <tr>
-      <th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th>
+      <th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th><th>Sponsor</th>
     </tr>
   </thead>
   <tbody>
@@ -109,15 +109,15 @@ type: single
 
 
 <h2>GMRS Nets</h2>
+<h3>Thursday Nets</h3>
 <table>
   <thead>
-    <tr>
-      <th>Day</th><th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th>
-      <tr><td>Thursday</td><td>7:30 p.m.</td><td>462.700+</td><td>141.3 PL</td><td>Iowa GMRS 700 net</td>
-    </tr>
+    <tr><th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th><th>Sponsor</th></tr>
   </thead>
   <tbody>
+    <tr><td>7:30 p.m.</td><td>462.700+</td><td>141.3 PL</td><td>Iowa GMRS 700 net</td>
   </tbody>
 </table>
 
 {{< /blocks/section >}}
+
