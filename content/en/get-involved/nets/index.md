@@ -55,6 +55,7 @@ type: single
     <tr><th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th><th>Sponsor</th></tr>
   </thead>
   <tbody>
+    <tr><td>7:00 p.m.</td><td>146.940+</td><td>114.8 PL</td><td>DMRAA info net</td></tr>
     <tr><td>7:00 p.m.</td><td>147.045+</td><td>146.2 PL</td><td>Washington Area Amateur Radio Club Net</td></tr>
     <tr><td>7:30 p.m.</td><td>147.045+</td><td>146.2 PL</td><td>Washington County ARES Net</td></tr>
     <tr><td>8:00 p.m.</td><td>145.190-</td><td>114.8 PL</td><td>Dallas County ARES (All Star Node 47282)</td></tr>
