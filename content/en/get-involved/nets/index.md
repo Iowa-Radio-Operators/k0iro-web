@@ -30,13 +30,13 @@ type: single
     <tr><th>Time</th><th>Frequency</th><th>Tone</th><th>Net Name</th><th>Sponsor</th></tr>
   </thead>
   <tbody>
-    <tr><td>3:00 p.m.</td><td>145.190-</td><td>114.8 PL</td><td>Blind Ham's Net (All Star Node 47282)</td></tr>
+    <tr><td>3:00 p.m.</td><td>145.190-</td><td>114.8 PL</td><td>Blind Ham's Net (All Star Node 47282, EchoLink: 710459)</td></tr>
     <tr><td>6:00 p.m.</td><td>145.310-</td><td>114.8 PL</td><td>WIRES-X Net</td></tr>
     <tr><td>7:00 p.m.</td><td>146.610-</td><td>114.8 PL</td><td>Polk County SkyWarn Weekly Net</td></tr>
     <tr><td>7:00 p.m.</td><td>147.240+</td><td>114.8 PL</td><td>Story County ARC (Ames)</td></tr>
     <tr><td>7:30 p.m.</td><td>IA 3119</td><td>—</td><td>Iowa DMR Sunday Night Users Net</td></tr>
     <tr><td>7:30 p.m.</td><td>146.835-</td><td>146.2 PL</td><td>Chariton Sunday Night Net</td></tr>
-    <tr><td>7:30 p.m.</td><td>443.400</td><td>151.4 PL</td><td>Lamoni Net</td></tr>
+    <tr><td>7:30 p.m.</td><td>443.400</td><td>151.4 PL</td><td>Lamoni Net (EchoLink: 127318)</td></tr>
     <tr><td>7:30 p.m.</td><td>146.745-</td><td>192.8 PL</td><td>Linn County Sunday ARES Net</td></tr>
     <tr><td>8:00 p.m.</td><td>146.610-</td><td>114.8 PL</td><td>Central Iowa ARES</td></tr>
     <tr><td>8:00 p.m.</td><td>146.850-</td><td>—</td><td>Boone County ARC (Boone)</td></tr>
@@ -58,8 +58,8 @@ type: single
     <tr><td>7:00 p.m.</td><td>146.940+</td><td>114.8 PL</td><td>DMRAA info net</td></tr>
     <tr><td>7:00 p.m.</td><td>147.045+</td><td>146.2 PL</td><td>Washington Area Amateur Radio Club Net</td></tr>
     <tr><td>7:30 p.m.</td><td>147.045+</td><td>146.2 PL</td><td>Washington County ARES Net</td></tr>
-    <tr><td>8:00 p.m.</td><td>145.190-</td><td>114.8 PL</td><td>Dallas County ARES (All Star Node 47282)</td></tr>
-    <tr><td>8:00 p.m.</td><td>145.190-</td><td>114.8 PL</td><td>Hiawatha Amateur Radio Club (All Star Node 47282)</td></tr>
+    <tr><td>8:00 p.m.</td><td>145.190-</td><td>114.8 PL</td><td>Dallas County ARES (All Star Node 47282, EchoLink: 710459)</td></tr>
+    <tr><td>8:00 p.m.</td><td>145.190-</td><td>114.8 PL</td><td>Hiawatha Amateur Radio Club (All Star Node 47282, EchoLink: 710459)</td></tr>
   </tbody>
 </table>
 
