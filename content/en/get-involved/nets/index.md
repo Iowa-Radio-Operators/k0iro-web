@@ -88,6 +88,7 @@ type: single
     <tr><td>8:45 p.m.</td><td>146.985-</td><td>192.8 PL</td><td>Louisa County Service Net</td></tr>
     <tr><td>9:00 p.m.</td><td>146.910-</td><td>192.8 PL</td><td>Muscatine, Louisa, and Cedar County ARES Net</td></tr>
     <tr><td>following ARES</td><td>146.940-</td><td>114.8 PL</td><td>Central Iowa Technical Net</td></tr>
+    <tr><td>9:00 p.m.</td><td>146.94</td><td>136.5 PL</td><td>W0MG ARES Check-In (Waterloo / Cedar Falls)</td></tr>
   </tbody>
 </table>
 
