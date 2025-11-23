@@ -36,7 +36,7 @@ type: single
 
 {{% blocks/feature icon="fa fa-address-card" title="Nets" %}}
 
-[Quick Links](/get-involved/nets)
+[Area Radio Nets](/get-involved/nets)
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
