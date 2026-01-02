@@ -1,0 +1,25 @@
+---
+date: 2026-01-02
+title: 2025 Repeater Challenge Winners
+author: Jason Knapton ([@KE0EJS](jason@ik0iro.com))
+---
+
+# Congratulations to the Winners
+
+I want to personally thank everyone who participated in the **Iowa Radio Operators – 2025 Repeater Challenge**. Over the six‑month challenge, we recorded an impressive **795 logged entries**, which is a testament to the enthusiasm and dedication of this community.
+
+Our first‑ and second‑place finishers truly went the extra mile, utilizing both Amateur Radio and GMRS to reach their goals—excellent examples of skill, creativity, and persistence. Well done!
+
+A huge thank‑you also goes out to everyone who took the time to log their QSOs. Your participation is what made this challenge such a success. Keep up the great work, and I look forward to seeing even more activity next time!
+
+## Our Winners
+
+- **Jim – W6GRE / WSFL398 — 🥇 1st Place**
+- **Trevor – KF0TAW / WRZY403 — 🥈 2nd Place**
+
+Congratulations to our winners, and thanks again to everyone who took part!
+
+{{< imgproc "RepeaterChallenge-1st.png" Resize "600x" />}}
+
+
+{{< imgproc "RepeaterChallenge-2nd.png" Resize "600x" />}}
