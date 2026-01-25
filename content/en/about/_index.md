@@ -42,5 +42,15 @@ Learn More about the Club, Values and Leaders
 {{% /blocks/feature %}}
 {{< /blocks/section >}}
 
+{{< blocks/section type="row" color="white" >}}
+{{% blocks/feature icon="fa-regular fa-id-card" title="Membership" %}}
+
+[Membership](/about/membership)
+{{% /blocks/feature %}}
 
 {{< /blocks/section >}}
+
+{{< /blocks/section >}}
+
+
+
