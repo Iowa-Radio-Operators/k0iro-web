@@ -17,7 +17,9 @@ While there are countless ways to build an AllStar node, we wanted to share a fe
 
 At our repeater site in Mingo, the K0IRO AllStar hub runs on a Lenovo Mini PC paired with a [Repeater Builder RIM‑LITE](https://www.repeater-builder.com/products/usb-rim-lite.html) specifically built for our ARCOM controller. We chose this route for a couple of reasons. While a Raspberry Pi could have hosted AllStar, we wanted a bit more horsepower for linking and voice announcements. A cron‑driven script announces the date, time, and weather each day — something we’ll cover in a future post. And since we have internet at the repeater site, there was no need for a separate “link radio” at another location.
 
-(Insert Mingo RC210 Setup here)
+{{< imgproc "IMG_1971.jpg" Resize "800x" />}}
+
+{{< imgproc "IMG_1972-EDIT.jpg" Resize "800x" />}}
 
 This is a great option if your site has reliable internet access. The only caveat is that AllStar requires a public‑facing IP address or appropriate port forwarding. We’ll cover those details in another write‑up.
 
