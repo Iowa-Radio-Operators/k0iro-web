@@ -1,6 +1,6 @@
 ---
-date: 2027-02-09
-draft: true
+date: 2026-02-13
+draft: false
 title: All Star Hardware Options
 author: Calvin Jutting ([@KN0CTJ](calvin@ik0iro.com))
 ---
@@ -20,6 +20,12 @@ At our repeater site in Mingo, the K0IRO AllStar hub runs on a Lenovo Mini PC pa
 {{< imgproc "IMG_1971.jpg" Resize "800x" />}}
 
 {{< imgproc "IMG_1972-EDIT.jpg" Resize "800x" />}}
+
+The RIM-LITE for Repeater Controllers also supports SCOM and RLC too. Here are some examples of an RLC Controller
+
+{{< imgproc "RLC-Front.jpg" Resize "800x" />}}
+
+{{< imgproc "RLC-Top.jpg" Resize "800x" />}}
 
 This is a great option if your site has reliable internet access. The only caveat is that AllStar requires a public‑facing IP address or appropriate port forwarding. We’ll cover those details in another write‑up.
 
