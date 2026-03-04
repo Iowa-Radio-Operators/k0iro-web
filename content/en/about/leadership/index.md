@@ -29,8 +29,7 @@ Jason - KD0MUB
 <a href="mailto:jasonl@k0iro.com">jasonl@k0iro.com</a>
 {{% /blocks/feature %}}
 {{% blocks/feature icon="fa-user" title="Marketing - Community Relations" %}}
-Ben - K0BJJ
+OPEN
 
-<a href="mailto:ben@k0iro.com">ben@k0iro.com</a>
 {{% /blocks/feature %}}
 {{< /blocks/section >}}
