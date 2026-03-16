@@ -48,6 +48,11 @@ Learn More about the Club, Values and Leaders
 [Membership](/about/membership)
 {{% /blocks/feature %}}
 
+{{% blocks/feature icon="fa-solid fa-tower-broadcast" title="Repeaters" %}}
+
+[Repeaters](/about/repeaters)
+{{% /blocks/feature %}}
+
 {{< /blocks/section >}}
 
 {{< /blocks/section >}}
